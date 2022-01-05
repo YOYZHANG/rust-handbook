@@ -1,0 +1,1 @@
+https://www.lpalmieri.com/posts/skeleton-and-principles-for-a-maintainable-test-suite/
